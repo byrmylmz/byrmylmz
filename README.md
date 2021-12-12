@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Skills
-- 👨‍💻 PHP, Laravel, PHP
+- 👨‍💻 PHP, Laravel
 - ⚙️  Vue
 - 👁️ Tailwind, CSS,
 - 💽 MySQL, SQL,
